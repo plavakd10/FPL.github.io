@@ -3,6 +3,10 @@ FPL Player Data and Stats(2019/20)
 
 Fantasy Premier League(FPL) is a global fantasy football game of English Premier League, played nearly by 7.5m  managers all across the globe. An unfortunate outbreak of a pandemic has halted football and all other sporting events. In terms of FPL, it has provided us quite a time to ponder about our teams. And with Premier League set to resume on 17th June, its time to give a final push to our analysis of the season so far.
 
+
+Columns Descriptor
+-------------------
+
 Team-the club that the player belongs to.
 
 Points- points scored by the player till date
